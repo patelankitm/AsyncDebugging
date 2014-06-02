@@ -1,0 +1,8 @@
+﻿<Window x:Class="AsyncDebugging.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Create file" Height="30" HorizontalAlignment="Left" Margin="50,32,0,0" Name="FileButton" VerticalAlignment="Top" Width="100" Click="FileButton_Click"/>
+    </Grid>
+</Window>
